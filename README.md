@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DanielPAbraham
-- 👀 I’m interested in coding, gym, cooking, video games, and math
+- 👀 I’m interested in coding, cooking, lifting, video games, and math
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 DanielPAbraham/DanielPAbraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
