@@ -1,6 +1,10 @@
-Hello, I'm Daniel A. Perez. I am a student in engineering and Full-Stack Developer with a passion for group projects, problem solving, and software development. I want to specialize in back-end development and learn about AR/VR programming; a newer field of programming that I feel will be very prevalent in the near future.
+Hello, I’m Daniel A. Perez!
 
-I enjoy building PC's and talking about PC components, especially when it comes to creating builds for PC gaming or workstations for animation/video editing. The world of tech has gone nuts with the explosion of crytpo-currency and the dependency for software to regulate data that keeps the world turning. 
+I’m an interdisciplinary engineering student at Florida International University focusing on Industrial Engineering and dedicated Full-Stack Developer with careful attention to detail and functionality. 
+
+I have a passion for technology, creating efficient solutions for everyday problems, and working on group projects. 
+
+I believe that the future of technology and software will be in dissolving the physical boundaries of the real world and that of the digital world. I have a few ideas and projects in the back burner for how I can implement solutions to bring a new standard to the digital age. 
 
 Email: danielpabraham97@gmail.com
 Linkedin: www.linkedin.com/in/danielpabraham
