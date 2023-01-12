@@ -8,4 +8,4 @@ I believe that the future of technology and software will be in dissolving the p
 
 Email: danielpabraham97@gmail.com
 Linkedin: www.linkedin.com/in/danielpabraham
-Instagram: https://www.instagram.com/daniel_a_perezz/
+
